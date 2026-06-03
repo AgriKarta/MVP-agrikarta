@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+:root {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'JetBrains Mono', monospace;
+  background-color: #f9fafb;
+  color: #1c1917;
+}
